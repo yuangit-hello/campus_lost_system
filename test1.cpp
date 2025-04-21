@@ -96,6 +96,7 @@ int main()
 	 	
 	 }
  } 
+ cout << esdfw;
  cout << asdffeklf;
   // 请在此输入您的代码
   return 0;
